@@ -1,0 +1,106 @@
+{
+  "checked": "2026-10-29",
+  "sources": [
+    "https://www.meniu.lt/vieta/minutele",
+    "https://www.waze.com/live-map/directions/lt/vilniaus-apskr./vilnius/minutele?to=place.ChIJnV_C77KW3UYRvhWmfZqLZP8"
+  ],
+  "photos": [
+    {
+      "file": "assets/hero.webp",
+      "name": "Salotos su vištiena ir putpelių kiaušiniais",
+      "url": "https://static.meniu.lt/uploads/restaurant/photo/16/33849/84a93ba2175894c0d9566b0fd5744fe21fdca2ae.jpeg",
+      "page": "https://www.meniu.lt/vieta/minutele",
+      "width": 720,
+      "height": 960
+    },
+    {
+      "file": "assets/food-01.webp",
+      "name": "Keptas patiekalas su padažu",
+      "url": "https://img05.restaurantguru.com/r964-Minutele-meals.jpg",
+      "page": "https://fr.restaurantguru.com/Minutele-Vilnius",
+      "width": 817,
+      "height": 1680
+    },
+    {
+      "file": "assets/food-02.webp",
+      "name": "Karštas patiekalas su bulvėmis ir salotomis",
+      "url": "https://img05.restaurantguru.com/rc92-Minutele-meals-2022-12-1.jpg",
+      "page": "https://fr.restaurantguru.com/Minutele-Vilnius",
+      "width": 720,
+      "height": 1280
+    },
+    {
+      "file": "assets/food-03.webp",
+      "name": "Pietų lėkštė su bulvių koše",
+      "url": "https://img05.restaurantguru.com/rb90-food-Minutele-2025-09.jpg",
+      "page": "https://fr.restaurantguru.com/Minutele-Vilnius",
+      "width": 1200,
+      "height": 1007
+    },
+    {
+      "file": "assets/food-04.webp",
+      "name": "Desertai su braškėmis",
+      "url": "https://img05.restaurantguru.com/re27-Kavine-baras-Minutele-dessert.jpg",
+      "page": "https://fr.restaurantguru.com/Minutele-Vilnius",
+      "width": 960,
+      "height": 720
+    },
+    {
+      "file": "assets/food-05.webp",
+      "name": "Vieno kąsnio užkandžiai",
+      "url": "https://img05.restaurantguru.com/r8ef-Kavine-baras-Minutele-dessert-2021-09-3.jpg",
+      "page": "https://fr.restaurantguru.com/Minutele-Vilnius",
+      "width": 960,
+      "height": 720
+    },
+    {
+      "file": "assets/food-06.webp",
+      "name": "Kokosiniai desertai",
+      "url": "https://img05.restaurantguru.com/r6e6-Kavine-baras-Minutele-dessert-2021-09.jpg",
+      "page": "https://fr.restaurantguru.com/Minutele-Vilnius",
+      "width": 960,
+      "height": 720
+    },
+    {
+      "file": "assets/food-07.webp",
+      "name": "Užkandžiai su salotomis",
+      "url": "https://img05.restaurantguru.com/r255-Kavine-baras-Minutele-dessert-2021-09-2.jpg",
+      "page": "https://fr.restaurantguru.com/Minutele-Vilnius",
+      "width": 960,
+      "height": 720
+    },
+    {
+      "file": "assets/food-08.webp",
+      "name": "Užkandžiai krepšeliuose",
+      "url": "https://img05.restaurantguru.com/re8b-dessert-Kavine-baras-Minutele-2021-09-1.jpg",
+      "page": "https://fr.restaurantguru.com/Minutele-Vilnius",
+      "width": 960,
+      "height": 720
+    },
+    {
+      "file": "assets/food-09.webp",
+      "name": "Kepta mėsa su salotomis",
+      "url": "https://img05.restaurantguru.com/r8aa-Minutele-dishes-2022-12-1.jpg",
+      "page": "https://fr.restaurantguru.com/Minutele-Vilnius",
+      "width": 1200,
+      "height": 900
+    },
+    {
+      "file": "assets/food-10.webp",
+      "name": "Sriuba su žalumynais",
+      "url": "https://img05.restaurantguru.com/rac0-Minutele-food-2022-12-1.jpg",
+      "page": "https://fr.restaurantguru.com/Minutele-Vilnius",
+      "width": 1200,
+      "height": 900
+    },
+    {
+      "file": "assets/food-11.webp",
+      "name": "Keptas patiekalas su daržovėmis",
+      "url": "https://img05.restaurantguru.com/rbf0-dishes-Minutele-2022-12.jpg",
+      "page": "https://fr.restaurantguru.com/Minutele-Vilnius",
+      "width": 945,
+      "height": 1680
+    }
+  ],
+  "note": "Independent design demo. No dated current-week lunch post verified; no current lunch promotion included."
+}

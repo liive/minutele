@@ -1,0 +1,36 @@
+/* Contemporary warm palette and vertically grouped contacts. */
+body[data-theme]{--paper:#fffaf4!important;--ink:#253432!important;--accent:#ad4434!important;--soft:#f4d995!important;background:var(--paper)}
+body[data-theme] .header{border-bottom-color:#dedbd2}
+body[data-theme] .brand svg{color:#ad4434}
+body[data-theme] .hero h1 em{color:#ad4434}
+body[data-theme] .hero .eyebrow{color:#ad4434}
+body[data-theme] .hero .button{background:#f4c576;color:#253432;border-radius:999px;font-size:17px;padding:17px 26px;box-shadow:none}
+body[data-theme] .hero .button:hover{background:#edb65d}
+body[data-theme] .hero-photo,body[data-theme] .hero-photo img{border-radius:24px;background:transparent}
+body[data-theme] .feature-food{background:#fae5d9}
+body[data-theme] .gallery{background:#253432;color:#fffaf4}
+body[data-theme] .gallery .controls button{color:#fffaf4;border-color:#a6b5ac}
+body[data-theme] .rail{scrollbar-color:#f4c576 transparent}
+body[data-theme] footer.contact{width:100%;max-width:none;background:#fae5d9;padding:88px 5% 0;color:#253432;border-top:6px solid #f4c576}
+body[data-theme] footer.contact .contact-grid,body[data-theme] footer.contact .bottom{width:100%;max-width:1240px;margin-inline:auto}
+body[data-theme] footer.contact .contact-grid{grid-template-columns:1fr 1fr;gap:64px;padding-bottom:70px;align-items:start}
+body[data-theme] footer.contact h2{max-width:400px;font-size:clamp(32px,3.6vw,48px);line-height:1.1;letter-spacing:-1.5px}
+body[data-theme] footer.contact .details{display:flex;flex-direction:column;gap:24px}
+body[data-theme] footer.contact .detail{padding:0 0 20px;border-bottom:1px solid #d8bfb0;font-size:21px;line-height:1.4}
+body[data-theme] footer.contact .detail small{font-size:12px;letter-spacing:1.3px;opacity:1;color:#665247;margin-bottom:8px}
+body[data-theme] footer.contact .socials{margin-top:24px}
+body[data-theme] footer.contact .socials a{display:inline-flex;gap:10px;padding:12px 18px;border-radius:999px;background:#253432;color:#fffaf4;font-size:16px}
+body[data-theme] footer.contact .bottom{padding-block:24px;border-color:#d8bfb0;font-size:14px}
+@media(max-width:760px){body[data-theme] footer.contact{padding:52px 5% 0}body[data-theme] footer.contact .contact-grid{grid-template-columns:1fr;gap:32px;padding-bottom:44px}body[data-theme] footer.contact h2{font-size:32px;max-width:310px}body[data-theme] footer.contact .detail{font-size:19px}body[data-theme] .hero .button{font-size:16px}}
+
+body[data-theme] h1,body[data-theme] h2,body[data-theme] .brand{font-family:Outfit,Manrope,sans-serif;font-style:normal}
+body[data-theme] .brand{font-size:28px;font-weight:750;color:#253432}
+body[data-theme] .hero{width:min(1240px,90%);max-width:1240px;background:#fffaf4;color:#253432;padding:26px 0 48px;align-items:start;gap:64px}
+body[data-theme] .hero>div:first-child{align-self:start}
+body[data-theme] .hero h1{font-weight:750;line-height:1.04}
+body[data-theme] .hero h1 em{font-style:normal}
+body[data-theme] .hero .intro{color:#253432}
+body[data-theme] .hero-photo{padding:0;box-shadow:none}
+body[data-theme] .feature-copy h2{color:#253432;font-style:normal}
+body[data-theme] footer.contact .bottom{margin-top:0}
+@media(max-width:760px){body[data-theme] .brand{font-size:23px}body[data-theme] .hero{padding:20px 0 30px;gap:22px}body[data-theme] .hero h1{font-size:40px}body[data-theme] .hero-photo{padding:0;box-shadow:none}}
